@@ -1,6 +1,6 @@
 # **Foobar**
 
-<img src="https://images.app.goo.gl/Lii3jd5MDTGkGdZm8">
+<img src="https://images.app.goo.gl/jMLBrUxvSJ8eeEFH6">
 
 ### Foobar is a Python library for dealing with word pluralization
 
