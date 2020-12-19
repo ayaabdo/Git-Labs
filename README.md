@@ -1,5 +1,7 @@
 # **Foobar**
 
+<img src="https://images.app.goo.gl/Lii3jd5MDTGkGdZm8">
+
 ### Foobar is a Python library for dealing with word pluralization
 
 # **Installation**
@@ -23,4 +25,4 @@ foobar.singulralize('phenomena')  # returns phenomena
 ### Please make sure to update tests as appropriate.
 
 # **License**
-[MIT](https://www.mit.edu/)
+## [MIT](https://www.mit.edu/)
